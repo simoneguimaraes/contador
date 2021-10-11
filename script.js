@@ -10,7 +10,7 @@ function contar() {
     let gap = Number(txtgapp.value)
 
     if (gap == 0) {
-            window.alert('Passo inválido. O valor mínimo é 1.')
+            window.alert('Intervalo inválido. O valor mínimo é 1.')
             gap = 1
         }
 
@@ -25,15 +25,3 @@ function contar() {
         } 
         loadingp.innerHTML += `\u{23F9}`
 }
-
-
-/*
-
-    if(txtstartp.value.length == 0 || txtendp.value.length == 0 || txtgapp.value.length == 0) {
-        window.alert('Erro. Informe todos os dados para realizar a contagem.')
-    } else {
-
-    
-    
-
-*/
