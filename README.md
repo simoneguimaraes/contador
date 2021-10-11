@@ -5,3 +5,4 @@ Para ver, clique <a href="https://simoneguimaraes.github.io/contador/" target="_
 
 #
 Made with 💜 by Simone Guimarães
+
